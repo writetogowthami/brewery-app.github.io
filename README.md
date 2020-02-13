@@ -7,11 +7,11 @@
 ## Web Application
 ### User Interface
 
-- Angular 8
+- Angular
 - React
 
-1. HTML5
-2. CSS 3
+1. HTML
+2. CSS
 
 **JavaScript** and _TypeScript_ and `ES6` text
 
