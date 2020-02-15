@@ -2,9 +2,9 @@
 
 ```markdown
 
-# User experience
-## Web Application
-### User Interface
+ User Experience
+ Web Application
+ User Interface
 
 - Angular
 - React
@@ -12,6 +12,6 @@
 1. HTML
 2. CSS
 
-**JavaScript** and _TypeScript_ and `ES6`
+JavaScript and TypeScript and `ES6`
 
 ```
